@@ -45,8 +45,8 @@ header
 	height: 35vh;		
 }
 
-.mercedes
+.box > img
 {
-    width: 100px;
-    height: 200px;
+	width: 100%;
+	height: 100%;
 }

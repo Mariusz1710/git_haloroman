@@ -1,0 +1,45 @@
+window,body
+{
+	margin: 0;
+	background-color: #121212;
+}
+
+header
+{
+	color: red;	
+	font-size: 44px;
+	text-align: center;
+	padding: 10px;
+	margin-bottom: 15px;
+}
+
+.container_logo
+{
+	display: flex;
+}
+
+.logo
+{
+	display: flex;
+	width: 25%;
+	//border: 3px solid aqua;
+	box-sizing: border-box;
+}
+
+.logo > img
+{
+	width: 100%;
+	height: 35vh;
+}
+
+.container_box
+{
+	display: flex;
+}
+
+.box
+{
+	width: 25%;
+	border: 2px solid orange;
+	height: 35vh;		
+}
